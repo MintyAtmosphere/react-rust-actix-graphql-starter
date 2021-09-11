@@ -1,5 +1,8 @@
 # React Rust Starter Project
-A Rust + React starter project 
+
+React + GraphQL (Apollo) on the frontend
+Rust + GraphQL + Actix on the backend
+
 
 ## How to run:
 
