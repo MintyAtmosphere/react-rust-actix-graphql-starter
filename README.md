@@ -1,9 +1,8 @@
-# React Rust Starter Project
+# JavaScript + Rust Starter Project
 
-React + GraphQL (Apollo) on the frontend
+JavaScript's React + GraphQL (Apollo) on the frontend.
 
-Rust + GraphQL + Actix on the backend
-
+Rust's Actix + GraphQL on the backend.
 
 ## How to run:
 
